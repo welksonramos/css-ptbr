@@ -1,0 +1,16 @@
+'.source.css':
+  'align-content':
+    prefix: [
+      'alinhar conteúdo'
+      'alinhar-conteúdo'
+    ]
+    body: 'align-content:$0'
+  'align-items':
+    prefix: [
+      'alinhar itens'
+      'alinhar-itens'
+    ]
+    body: 'align-items:$0'
+  'align-self':
+    prefix: 'alinhar-se'
+    body: 'align-self:$0'

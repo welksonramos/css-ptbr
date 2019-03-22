@@ -1,0 +1,55 @@
+'.source.css':
+  'background-attachment':
+    prefix: [
+      'fundo anexo'
+      'fixação-do-fundo'
+    ]
+    body: 'background-attachment:$0'
+  'background-blend-mode':
+    prefix: [
+      'fundo modo mistura'
+      'modo-de-mistura-do-fundo'
+    ]
+    body: 'background-blend-mode:$0'
+  'background-clip':
+    prefix: [
+      'fundo extender na borda'
+      'extensão-do-fundo'
+    ]
+    body: 'background-clip:$0'
+  'background-color':
+    prefix: [
+      'fundo cor'
+      'cor-de-fundo'
+    ]
+    body: 'background-color:$0'
+  'background-image':
+    prefix: [
+      'fundo imagem'
+      'imagem-de-fundo'
+    ]
+    body: 'background-image:$0'
+  'background-origin':
+    prefix: [
+      'fundo origem'
+      'ponto-de-origem-do-fundo'
+    ]
+    body: 'background-origin:$0'
+  'background-position':
+    prefix: [
+      'fundo posição'
+      'posição-do-fundo'
+    ]
+    body: 'background-position:$0'
+  'background-repeat':
+    prefix: [
+      'fundo repetir'
+      'repetição-do-fundo'
+    ]
+    body: 'background-repeat:$0'
+  'background-size':
+    prefix: [
+      'fundo tamanho'
+      'tamanho-do-fundo'
+    ]
+    body: 'background-size:$0'

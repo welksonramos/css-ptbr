@@ -1,0 +1,43 @@
+'.source.css':
+  'animation-delay':
+    prefix: [
+      'animação atraso'
+      'atraso-da-animação'
+    ]
+    body: 'animation-delay:$0'
+  'animation-direction':
+    prefix: [
+      'animação direção'
+      'direção-da-animação'
+    ]
+    body: 'animation-direction:$0'
+  'animation-duration':
+    prefix: [
+      'animação duração'
+      'duração-da-animação'
+    ]
+    body: 'animation-duration:$0'
+  'animation-fill-mode':
+    prefix: [
+      'animação modo aplicação estilo'
+      'modo-de-preenchimento-da-animação'
+    ]
+    body: 'animation-fill-mode:$0'
+  'animation-iteration-count':
+    prefix: [
+      'animação contador iterações'
+      'contador-de-iteração-da-animação'
+    ]
+    body: 'animation-iteration-count:$0'
+  'animation-name':
+    prefix: [
+      'animação nome'
+      'nome-da-animação'
+    ]
+    body: 'animation-name:$0'
+  'animation-play-state':
+    prefix: [
+      'animação status'
+      'status-da-animação'
+    ]
+    body: 'animation-play-state:$0'

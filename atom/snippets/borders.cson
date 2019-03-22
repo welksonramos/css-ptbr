@@ -1,0 +1,148 @@
+'.source.css':
+  border:
+    prefix: 'borda'
+    body: 'border: 1px solid black;$0'
+  'border-bottom':
+    prefix: [
+      'borda inferior'
+      'borda-inferior'
+    ]
+    body: 'border-bottom:$0'
+  'border-bottom-color':
+    prefix: [
+      'borda inferior cor'
+      'cor-da-borda-inferior'
+    ]
+    body: 'border-bottom-color:$0'
+  'border-bottom-left-radius':
+    prefix: [
+      'borda raio canto inferior esquerdo'
+      'raio-do-canto-inferior-esquerdo-da-borda'
+    ]
+    body: 'border-bottom-left-radius:$0'
+  'border-bottom-right-radius':
+    prefix: [
+      'borda raio canto inferior direito'
+      'raio-do-canto-inferior-direito-da-borda'
+    ]
+    body: 'border-bottom-right-radius:$0'
+  'border-bottom-style':
+    prefix: [
+      'borda inferior estilo'
+      'estilo-da-borda-inferior'
+    ]
+    body: 'border-bottom-style:$0'
+  'border-bottom-width':
+    prefix: [
+      'borda inferior comprimento'
+      'comprimento-da-borda-inferior'
+    ]
+    body: 'border-bottom-width:$0'
+  'border-color':
+    prefix: [
+      'borda cor'
+      'cor-da-borda'
+    ]
+    body: 'border-color:$0'
+  'border-left':
+    prefix: [
+      'borda esquerda'
+      'borda-esquerda'
+    ]
+    body: 'border-left:$0'
+  'border-left-color':
+    prefix: [
+      'borda esquerda cor'
+      'cor-da-borda-esquerda'
+    ]
+    body: 'border-left-color:$0'
+  'border-left-style':
+    prefix: [
+      'borda esquerda estilo'
+      'estilo-da-borda-esquerda'
+    ]
+    body: 'border-left-style:$0'
+  'border-left-width':
+    prefix: [
+      'borda esquerda comprimento'
+      'comprimento-da-borda-esquerda'
+    ]
+    body: 'border-left-width:$0'
+  'border-radius':
+    prefix: [
+      'borda raio'
+      'raio-da-borda'
+    ]
+    body: 'border-radius:$0'
+  'border-right':
+    prefix: [
+      'borda direita'
+      'borda-direita'
+    ]
+    body: 'border-right:$0'
+  'border-right-color':
+    prefix: [
+      'borda direita cor'
+      'cor-da-borda-direita'
+    ]
+    body: 'border-right-color:$0'
+  'border-right-style':
+    prefix: [
+      'borda direita estilo'
+      'estilo-da-borda-direita'
+    ]
+    body: 'border-right-style:$0'
+  'border-right-width':
+    prefix: [
+      'borda direita comprimento'
+      'comprimento-da-borda-direita'
+    ]
+    body: 'border-right-width:$0'
+  'border-style':
+    prefix: [
+      'borda estilo'
+      'estilo-da-borda'
+    ]
+    body: 'border-style:$0'
+  'border-top':
+    prefix: [
+      'borda superior'
+      'borda-superior'
+    ]
+    body: 'border-top:$0'
+  'border-top-color':
+    prefix: [
+      'borda superior cor'
+      'cor-da-borda-superior'
+    ]
+    body: 'border-top-color:$0'
+  'border-top-left-radius':
+    prefix: [
+      'borda raio canto superior esquerdo'
+      'raio-do-canto-superior-esquerdo-da-borda'
+    ]
+    body: 'border-top-left-radius:$0'
+  'border-top-right-radius':
+    prefix: [
+      'borda raio canto superior direito'
+      'raio-do-canto-superior-direito-da-borda'
+    ]
+    body: 'border-top-right-radius:$0'
+  'border-top-style':
+    prefix: [
+      'borda superior estilo'
+      'estilo-da-borda-superior'
+    ]
+    body: 'border-top-style:$0'
+  'border-top-width':
+    prefix: [
+      'borda superior comprimento'
+      'comprimento-da-borda-superior'
+    ]
+    body: 'border-top-width:$0'
+  'border-width':
+    prefix: [
+      'borda comprimento'
+      'comprimento-da-borda'
+    ]
+    body: 'border-width:$0'

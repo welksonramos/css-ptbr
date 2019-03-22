@@ -1,0 +1,115 @@
+'.source.css':
+  aqua:
+    prefix: 'azul-piscina'
+    body: 'aqua;$0'
+  aquamarine:
+    prefix: 'verde-mar'
+    body: 'aquamarine;$0'
+  azure:
+    prefix: 'azul-celeste'
+    body: 'azure;$0'
+  biege:
+    prefix: 'bege'
+    body: 'biege;$0'
+  black:
+    prefix: 'preto'
+    body: 'black;$0'
+  blue:
+    prefix: 'azul'
+    body: 'blue;$0'
+  brown:
+    prefix: 'marrom'
+    body: 'brown;$0'
+  chartreuse:
+    prefix: 'verde-limão'
+    body: 'chartreuse;$0'
+  chocolate:
+    prefix: 'chocolate'
+    body: 'chocolate;$0'
+  coral:
+    prefix: 'coral'
+    body: 'coral;$0'
+  crimson:
+    prefix: 'carmim'
+    body: 'crimson;$0'
+  cyan:
+    prefix: 'ciano'
+    body: 'cyan;$0'
+  darkblue:
+    prefix: 'azul-escuro'
+    body: 'darkblue;$0'
+  darkgreen:
+    prefix: 'verde-escuro'
+    body: 'darkgreen;$0'
+  darkgrey:
+    prefix: 'cinza-escuro'
+    body: 'darkgrey;$0'
+  darkorange:
+    prefix: 'laranja-escuro'
+    body: 'darkorange;$0'
+  fuchsia:
+    prefix: 'fúcsia'
+    body: 'fuchsia;$0'
+  gold:
+    prefix: 'ouro'
+    body: 'gold;$0'
+  gray:
+    prefix: 'cinza'
+    body: 'gray;$0'
+  green:
+    prefix: 'verde'
+    body: 'green;$0'
+  lime:
+    prefix: 'limão'
+    body: 'lime;$0'
+  lightgray:
+    prefix: 'cinza-claro'
+    body: 'lightgray;$0'
+  lightblue:
+    prefix: 'azul-claro'
+    body: 'lightblue;$0'
+  lightgreen:
+    prefix: 'verde-claro'
+    body: 'lightgreen;$0'
+  maroon:
+    prefix: 'bordô'
+    body: 'maroon;$0'
+  navy:
+    prefix: 'azul-marinho'
+    body: 'navy;$0'
+  olive:
+    prefix: 'verde-oliva'
+    body: 'olive;$0'
+  orange:
+    prefix: 'laranja'
+    body: 'orange;$0'
+  pink:
+    prefix: 'rosa'
+    body: 'pink;$0'
+  purple:
+    prefix: 'roxo'
+    body: 'purple;$0'
+  red:
+    prefix: 'vermelho'
+    body: 'red;$0'
+  royalblue:
+    prefix: 'azul-royal'
+    body: 'royalblue;$0'
+  salmon:
+    prefix: 'salmão'
+    body: 'salmon;$0'
+  silver:
+    prefix: 'prata'
+    body: 'silver;$0'
+  snow:
+    prefix: 'neve'
+    body: 'snow;$0'
+  teal:
+    prefix: 'azul-petróleo'
+    body: 'teal;$0'
+  white:
+    prefix: 'branco'
+    body: 'white;$0'
+  yellow:
+    prefix: 'amarelo'
+    body: 'yellow;$0'
