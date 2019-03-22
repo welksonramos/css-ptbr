@@ -1,0 +1,67 @@
+'.source.css':
+  center:
+    prefix: 'meio'
+    body: 'center;$0'
+  color:
+    prefix: 'cor'
+    body: 'color:$0'
+  display:
+    prefix: 'exibição'
+    body: 'display:$0'
+  'font-family':
+    prefix: [
+      'fonte família'
+      'família-de-fonte'
+    ]
+    body: 'font-family$0'
+  'font-size':
+    prefix: [
+      'fonte tamanho'
+      'tamanho-da-fonte'
+    ]
+    body: 'font-size$0'
+  height:
+    prefix: 'altura'
+    body: 'height:$0'
+  'letter-spacing':
+    prefix: [
+      'espaço letras'
+      'espaçamento-entre-letras'
+    ]
+    body: 'letter-spacing:$0'
+  'line-height':
+    prefix: [
+      'linha altura'
+      'altura-da-linha'
+    ]
+    body: 'line-height:$0'
+  margin:
+    prefix: 'margem'
+    body: 'margin:$0'
+  padding:
+    prefix: [
+      'espaço interno'
+      'espaço-interno'
+    ]
+    body: 'padding:$0'
+  position:
+    prefix: 'posição'
+    body: 'position:$0'
+  'text-align':
+    prefix: [
+      'texto alinhar'
+      'alinhar-texto'
+    ]
+    body: 'text-align:$0'
+  'text-shadow':
+    prefix: [
+      'texto sombra'
+      'sombreamento-do-texto'
+    ]
+    body: 'text-shadow:$0'
+  transition:
+    prefix: 'transição'
+    body: 'transition:$0'
+  width:
+    prefix: 'largura'
+    body: 'width:$0'
